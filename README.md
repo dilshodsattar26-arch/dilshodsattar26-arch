@@ -2,7 +2,7 @@
   salom men sattarov dilshodbek men dasturlash va it sohasiga qiziqaman
 </h1>
 <p>
-  men Xorazm Khanqa 50-maktabda oqiyman! men 7-sinf 2012 yilman
+  men Xorazm Khanqa Olaja, 50-maktabda oqiyman! 
 </p>
 <p>
   men al-xorazimiy vorislar IT yonalishida oqyman 
