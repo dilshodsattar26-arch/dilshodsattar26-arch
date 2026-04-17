@@ -54,8 +54,6 @@ Murakkab tizimlarni loyihalash, avtomatlashtirish va samarali yechimlar ishlab c
 
 <img src="https://i.ibb.co/HLvZpY85/Skrinshot-2026-03-16-172307.png"/>
 
-<img src="https://i.ibb.co/HLvZpY85/Skrinshot-2026-03-16-172307.png"/>
-
 </p>
 
 ---
