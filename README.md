@@ -52,9 +52,9 @@ Murakkab tizimlarni loyihalash, avtomatlashtirish va samarali yechimlar ishlab c
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFFF"/>
+<img src="https://github.com/dilshodsattar26-arch"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&ring=00FFFF"/>
+<img src="https://github.com/dilshodsattar26-arch"/>
 
 </p>
 
@@ -151,7 +151,7 @@ Tizimli fikrlash esa murakkab muammolarni hal qiladi.
 ## 👁️ PROFIL KO‘RISH SONI
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profil%20korishlar&color=00FFFF&style=flat"/>
+<img src="https://github.com/dilshodsattar26-arch"/>
 </p>
 
 ---
