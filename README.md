@@ -1,165 +1,130 @@
-<!-- MEGA HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203A43,100:00FFFF&height=260&section=header&text=Dilshodbek%20Sattarov&fontSize=60&fontColor=00FFFF&animation=fadeIn&fontAlignY=38"/>
-</p>
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dilshodbek | Developer</title>
+<style>
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  color: white;
+}
 
-<h1 align="center">💻 Dilshodbek Sattarov</h1>
-<h3 align="center">⚡ Dasturchi • Telegram Bot Developer • Backend Ishlab Chiquvchi</h3>
+header {
+  text-align: center;
+  padding: 60px 20px;
+}
 
----
+h1 {
+  font-size: 3em;
+}
 
-## 🧠 MEN HAQIMDA
+.typewriter {
+  overflow: hidden;
+  border-right: .15em solid white;
+  white-space: nowrap;
+  animation: typing 4s steps(40, end), blink .75s step-end infinite;
+}
 
-Men dasturlashga qiziqadigan va real muammolarni texnologiya orqali hal qilishni yoqtiradigan dasturchiman.  
-Asosan backend yo‘nalishida ishlayman va Telegram botlar yaratishga alohida qiziqaman.
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
 
-Murakkab tizimlarni loyihalash, avtomatlashtirish va samarali yechimlar ishlab chiqish — asosiy maqsadlarimdan biri.
+@keyframes blink {
+  from, to { border-color: transparent }
+  50% { border-color: white }
+}
 
----
+.card {
+  background: rgba(255,255,255,0.05);
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 20px;
+  width: 80%;
+  backdrop-filter: blur(10px);
+}
 
-## 🚀 ASOSIY YO‘NALISHLARIM
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  background: #00c6ff;
+  color: black;
+  cursor: pointer;
+}
 
-✔ Telegram botlar ishlab chiqish  
-✔ Backend dasturlash  
-✔ API bilan ishlash  
-✔ Ma'lumotlar bazasi tizimlari  
-✔ Avtomatlashtirish (Automation)  
-✔ Web tizimlar yaratish  
-✔ Server logikasi ishlab chiqish  
+.progress {
+  background: #333;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 10px 0;
+}
 
----
+.progress-bar {
+  height: 10px;
+  background: #00ffcc;
+}
 
-## ⚙️ TEXNOLOGIYALAR VA TILLAR
+footer {
+  text-align: center;
+  padding: 20px;
+  opacity: 0.7;
+}
+</style>
+</head>
+<body>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,php,mysql,sqlite,git,github,linux,bash,vscode" />
-</p>
+<header>
+  <h1>Dilshodbek Sattarov</h1>
+  <p class="typewriter">Frontend Developer | Telegram Bot Lover | IT Student</p>
+</header>
 
----
+<div class="card">
+  <h2>Men haqimda</h2>
+  <p>Men dasturlashga qiziqaman. Ayniqsa HTML, CSS, JavaScript va Telegram botlar yaratish yoqadi.</p>
+</div>
 
-## 🤖 TELEGRAM BOT BO‘YICHA TAJRIBA
+<div class="card">
+  <h2>Ko'nikmalar</h2>
+  <p>HTML</p>
+  <div class="progress"><div class="progress-bar" style="width: 90%"></div></div>
+  <p>CSS</p>
+  <div class="progress"><div class="progress-bar" style="width: 85%"></div></div>
+  <p>JavaScript</p>
+  <div class="progress"><div class="progress-bar" style="width: 70%"></div></div>
+</div>
 
-- Ko‘p funksiyali botlar yaratish  
-- To‘lov tizimlari bilan ishlovchi botlar  
-- Admin panelli botlar  
-- Avtomatik xizmat botlari  
-- API integratsiyali botlar  
-- Ma'lumot yig‘uvchi va qayta ishlovchi botlar  
+<div class="card">
+  <h2>Statistika</h2>
+  <p>Saytga kiruvchilar soni:</p>
+  <h1 id="counter">0</h1>
+  <!-- BU YERGA API yoki backend orqali real statistika qo'shish mumkin -->
+</div>
 
----
+<div class="card">
+  <h2>Telegram Botlar</h2>
+  <p>Men Telegram botlar yaratishga qiziqaman va API bilan ishlashni o'rganmoqdaman.</p>
+  <button onclick="showAlert()">Meni bos!</button>
+</div>
 
-## 📊 GITHUB STATISTIKA
+<footer>
+  <p>© 2026 Dilshodbek | GitHub Profile</p>
+</footer>
 
-<p align="center">
+<script>
+let count = localStorage.getItem('visits') || 0;
+count++;
+localStorage.setItem('visits', count);
+document.getElementById('counter').innerText = count;
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFFF"/>
+function showAlert() {
+  alert("Salom! Sen mening GitHub profilimni ko'ryapsan 😎");
+}
+</script>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&ring=00FFFF"/>
+</body>
+</html>
 
-</p>
-
----
-
-## 🏆 ENG KO‘P ISHLATILGAN TILLAR
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF" />
-
-</p>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## 🔐 HOZIRGI QIZIQISHLARIM
-
-- Katta hajmdagi backend tizimlar  
-- Tez ishlaydigan server arxitekturasi  
-- Xavfsizlik va himoya mexanizmlari  
-- Bulutli xizmatlar bilan ishlash  
-- Raqamli biznes vositalari  
-
----
-
-## 🧩 ISH USLUBIM
-
-Men kod yozishda quyidagi tamoyillarga amal qilaman:
-
-✔ Toza va tushunarli kod  
-✔ Maksimal samaradorlik  
-✔ Kengaytiriladigan arxitektura  
-✔ Xatolarga chidamli tizimlar  
-✔ Doimiy rivojlanish  
-
----
-
-## 🧠 DASTURLASH FALSAFAM
-
-Yaxshi dastur — bu faqat ishlaydigan kod emas.  
-Bu — tuzilma, aniqlik va kelajakda rivojlana oladigan tizimdir.
-
-Avtomatlashtirish vaqtni tejaydi.  
-Optimallashtirish tezlikni oshiradi.  
-Tizimli fikrlash esa murakkab muammolarni hal qiladi.
-
----
-
-## 🎯 UZOQ MUDDATLI MAQSADLARIM
-
-✔ Yirik texnologik loyihalar yaratish  
-✔ Global miqyosdagi mahsulot ishlab chiqish  
-✔ Kuchli dasturchilar qatoriga kirish  
-✔ Innovatsion tizimlar yaratish  
-✔ Texnologiya orqali real qiymat yaratish  
-
----
-
-## ⚡ QO‘SHIMCHA MA'LUMOT
-
-- Yangi texnologiyalarni o‘rganishni yaxshi ko‘raman  
-- Murakkab muammolarni hal qilish motivatsiya beradi  
-- Tizimli fikrlashni rivojlantirishga harakat qilaman  
-- Har kuni o‘z ustimda ishlayman  
-
----
-
-## 💬 SHIORIM
-
-> “Texnologiya — bu kelajakni yaratish vositasi.”
-
----
-
-## 🌐 ALOQA
-
-<p align="center">
-
-<a href="https://t.me/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Telegram-Boglanish-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 👁️ PROFIL KO‘RISH SONI
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profil%20korishlar&color=00FFFF&style=flat"/>
-</p>
-
----
-
-<p align="center">
-⭐ Dilshodbek Sattarov tomonidan yaratilgan ⭐
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:0f2027&height=140&section=footer"/>
-</p>
