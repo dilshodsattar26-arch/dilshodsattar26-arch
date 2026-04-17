@@ -138,7 +138,7 @@ Tizimli fikrlash esa murakkab muammolarni hal qiladi.
 
 <p align="center">
 
-<a href="https://t.me/YOUR_USERNAME">
+<a href="https://t.me/unknownchat3">
   <img src="https://img.shields.io/badge/Telegram-Boglanish-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
