@@ -52,9 +52,9 @@ Murakkab tizimlarni loyihalash, avtomatlashtirish va samarali yechimlar ishlab c
 
 <p align="center">
 
-<img src="https://github.com/dilshodsattar26-arch"/>
+<img src="https://i.ibb.co/HLvZpY85/Skrinshot-2026-03-16-172307.png"/>
 
-<img src="https://github.com/dilshodsattar26-arch"/>
+<img src="https://i.ibb.co/HLvZpY85/Skrinshot-2026-03-16-172307.png"/>
 
 </p>
 
@@ -145,16 +145,6 @@ Tizimli fikrlash esa murakkab muammolarni hal qiladi.
 </a>
 
 </p>
-
----
-
-## 👁️ PROFIL KO‘RISH SONI
-
-<p align="center">
-<img src="https://github.com/dilshodsattar26-arch"/>
-</p>
-
----
 
 <p align="center">
 ⭐ Dilshodbek Sattarov tomonidan yaratilgan ⭐
