@@ -47,15 +47,6 @@ Murakkab tizimlarni loyihalash, avtomatlashtirish va samarali yechimlar ishlab c
 - API integratsiyali botlar  
 - Ma'lumot yig‘uvchi va qayta ishlovchi botlar  
 
----
-
-## 📊 GITHUB STATISTIKA
-
-<p align="center">
-
-<img src="https://i.ibb.co/HLvZpY85/Skrinshot-2026-03-16-172307.png"/>
-
-</p>
 
 ## 🐍 CONTRIBUTION SNAKE
 
