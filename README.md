@@ -8,6 +8,7 @@
 
 ---
 
+
 ## 🧠 MEN HAQIMDA
 
 Men dasturlashga qiziqadigan va real muammolarni texnologiya orqali hal qilishni yoqtiradigan dasturchiman.  
