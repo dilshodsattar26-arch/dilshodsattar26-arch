@@ -56,18 +56,6 @@ Murakkab tizimlarni loyihalash, avtomatlashtirish va samarali yechimlar ishlab c
 
 </p>
 
----
-
-## 🏆 ENG KO‘P ISHLATILGAN TILLAR
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF" />
-
-</p>
-
----
-
 ## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
